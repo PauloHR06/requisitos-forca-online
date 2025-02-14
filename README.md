@@ -25,3 +25,4 @@ forca-online/
 
 * ```1.0.0```: Versão inicial dos requisitos.
 * ```1.1.0```: Documentação completa com README.
+* ```1.1.1```: Correção de erros no documento.
